@@ -16,7 +16,5 @@
     "url": "https://github.com/shelbylb97/Portfolio/issues"
   },
   "homepage": "https://github.com/shelbylb97/Portfolio#readme",
-  "dependencies": {
-    "bootstrap": "^5.0.2"
-  }
+  "dependencies": {}
 }
