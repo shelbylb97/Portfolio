@@ -37,9 +37,11 @@ for nav bar */
     padding: 0;
     background-color: black;
 }
- body {
+ 
+body {
    width: 100%;
  }
+ 
 li,a, button {
     font-family: 'Uchen';
     font-weight: 500;

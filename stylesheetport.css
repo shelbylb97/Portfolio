@@ -1,0 +1,66 @@
+/* portfolio from original repo*/
+
+.my-work {
+    background: var(--clr-dark);
+    color: var(--clr--light);
+    text-align: center;
+}
+
+.section__subtitle--work {
+    color: var(--clr-accent);
+    font-weight: var(--fw-bold);
+    margin-bottom: 1em;
+}
+
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px, 1fr);
+}
+
+/* 
+for nav bar */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+ 
+body {
+   width: 100%;
+ }
+ 
+li,a, button {
+    font-family: 'Uchen';
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;  
+}
+
+.navlink {
+    list-style: none;
+}
+
+.navlink li {
+    display: inline-block;
+    padding: 0px 20px;
+    
+}
+
+.navlink li a {
+    transition: all .03 ease 0s;
+}
+
+.navlink li a:hover {
+    color: yellow;
+}
+    
