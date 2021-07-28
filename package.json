@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Revised portfolio project. I didn't set up the last repository correctly so I decided just start over instead of pushing tot he old one.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelbylb97/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelbylb97/Portfolio/issues"
+  },
+  "homepage": "https://github.com/shelbylb97/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
