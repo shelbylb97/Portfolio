@@ -16,5 +16,11 @@
     "url": "https://github.com/shelbylb97/Portfolio/issues"
   },
   "homepage": "https://github.com/shelbylb97/Portfolio#readme",
-  "dependencies": {}
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "path": "^0.12.7"
+  }
 }
